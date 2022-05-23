@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}  
+
+
+.menu-container {
+    background-color: chartreuse;
+    height: 550px;
+    width: 130px;
+    
+}
+
+.menu-bar {
+    color: black;
+    width: 130px;
+    height: 550px;
+}
+
+.bilder {
+    width: 900px;
+    padding-left: 200px;
+}
+
+ol{
+    list-style-type: none;
+}
+
+
+li{
+    display: table-cell;
+    width:10px;
+    height:10px;
+
+    
+}
+
+li:hover{
+    background-color: #8d8d8d;
+}
+
+li:active{
+    background-color: black;
+}
+
+
